@@ -1,0 +1,74 @@
+.tt{
+    color: red;
+}
+.aa{
+    color: darkorange;
+}
+.firstd{
+    width: 40%; padding: 20px;
+    margin: 30px; float: left;
+}
+
+section{
+    height: 600px;
+    
+}
+.top{
+background-image: url("img/top-banner.png");
+background-repeat: no-repeat;
+
+}
+.link{
+    text-decoration: none;
+    background-color: rgb(10, 173, 4);
+    padding: 8px;
+    border-radius: 10px;
+    }
+    .second{
+        width: 40%; padding: 20px;
+        margin: 30px; float: left;
+    }
+    .middle{
+        background-image: url("img/dream-bg.png");
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    .third{
+        width: 40%; margin: 20px; padding: 20px;
+        box-shadow: 20px 20px 50px gray; 
+        float: left;border-radius: 10px;
+        height: 40%;
+        text-align: justify;
+    }
+    #color{
+        border-left: 8px solid;
+        border-color: orange;
+    }
+    #colors{
+        border-left: 8px solid;
+        border-color: palegreen;
+    }
+    .end{
+        background-image: url("img/exp-bg.png");
+        background-repeat: no-repeat;
+        background-position:left bottom 300px;
+        background-size: 60px;
+    }
+    .footer{
+        text-align: center;
+    }
+    .pro{
+        color: darkorchid;
+    }
+    .hero{
+        color: deeppink;
+    }
+    .skill{
+        color: rgb(0, 60, 255);
+    }
+    .sopno{
+        color: rgb(255, 25, 0);
+    }
+    .ras{
+        color: violet;
+    }

@@ -1,0 +1,79 @@
+.web{
+  color:goldenrod;
+}
+body{
+  margin: 0px;
+}
+.first{
+  width: 40%;
+   padding: 10px; float: left; margin: 30px;
+}
+.top-banner{
+  background-image: url("img/top-banner.png");
+ background-repeat: no-repeat;
+}
+section{
+  height: 510px;
+}
+.link{
+  text-decoration: none;
+  background-color: chartreuse;
+  color:darkorchid;padding: 7px; border-radius: 10px;
+}
+.second{
+  width: 40%; 
+  float: left; padding: 10px;
+}
+.pic{
+  text-decoration: none;
+  background-color: burlywood;
+  color: blue; padding: 10px;
+  border-radius: 10px;
+}
+.banner{
+ background-image: url("img/dream-bg.png");
+ background-repeat: no-repeat;
+ background-position:right;
+}
+.third{
+  width: 40%;margin: 30px;
+  box-shadow: 20px 20px 40px gray;
+  float: left;border-radius: 10px;
+  height: 50%; padding: 10px;
+  text-align: justify;
+ 
+}
+.rong{
+  color:orange;
+}
+.side{
+  background-image: url("img/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left; margin: 0px;
+ background-size: 60px;
+  
+}
+#full{
+ border-left: 7px solid;
+ border-color: lightsalmon;
+}
+#ses{
+  border-left: 7px solid;
+  border-color: blue;
+}
+footer p{
+  text-align: center;
+}
+.odd{
+  position: relative;
+  left: 70px;
+}
+.big{
+  color: deeppink;
+}
+.ww{
+  color: rgb(30, 30, 255);
+}
+p{
+  color: rgb(12, 189, 212);
+}
